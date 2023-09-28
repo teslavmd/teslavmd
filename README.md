@@ -1,7 +1,7 @@
 <h1>Hola, soy Matías.</h1>
-**Desarrollador Web**
+<b>Desarrollador Web<b>
 </br>
-*Entusiasta de la Tecnología y la Programacíon.*
+<b>Entusiasta de la Tecnología y la Programacíon.</b>
 <hr>
 <h2>Tecnologías</h2>
 <ul>
