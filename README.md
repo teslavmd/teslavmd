@@ -20,9 +20,6 @@
     <a href="https://www.instagram.com/matiasvd._/" target="_blank">instagram.</a>
   </li>
   <li>
-    <a href="https://www.facebook.com/profile.php?id=100008822837109" target="_blank">facebook.</a>  
-  </li>
-  <li>
     <a href="https://www.linkedin.com/in/matias-villafañe-a08041186/" target="_blank">linkedIn.</a>  
   </li>
   <li>
