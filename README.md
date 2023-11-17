@@ -22,8 +22,5 @@
   <li>
     <a href="https://www.linkedin.com/in/matias-villafañe-a08041186/" target="_blank">linkedIn.</a>  
   </li>
-  <li>
-    <a href="https://portfolio-219c8.web.app/" target="_blank">website.</a>  
-  </li>
 </ul>
 <hr>
